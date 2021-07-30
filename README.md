@@ -2,12 +2,12 @@
 Tank War is a 2D game made using Python-Pygame module
 
 # Tank War Game Screenshots
-![](ScreenShots/SS1.png)
-![](ScreenShots/SS2.png)
-![](ScreenShots/SS3.png)
-![](ScreenShots/SS4.png)
-![](ScreenShots/SS6.png)
-![](ScreenShots/SS7.png)
-![](ScreenShots/SS8.png)
-![](ScreenShots/SS5.png)
+![](screenShots/SS1.png)
+![](screenShots/SS2.png)
+![](screenShots/SS3.png)
+![](screenShots/SS4.png)
+![](screenShots/SS5.png)
+![](screenShots/SS6.png)
+![](screenShots/SS7.png)
+
 
