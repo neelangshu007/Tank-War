@@ -23,7 +23,7 @@ pip install pygame
 
 #### Usage
 
-- If you have the correct version of Python and Pygame installed, you can run the program in the command prompt / terminal.
+If you have the correct version of Python and Pygame installed, you can run the program in the command prompt / terminal.
 ```
 cd Tank-War
 ```
